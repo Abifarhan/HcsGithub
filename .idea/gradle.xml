@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="CHOOSE_PER_TEST" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/feature" />
+            <option value="$PROJECT_DIR$/feature/detail" />
+            <option value="$PROJECT_DIR$/feature/detail/api" />
+            <option value="$PROJECT_DIR$/feature/detail/apiinfra" />
+            <option value="$PROJECT_DIR$/feature/detail/cache" />
+            <option value="$PROJECT_DIR$/feature/detail/cacheinfra" />
+            <option value="$PROJECT_DIR$/feature/detail/domain" />
+            <option value="$PROJECT_DIR$/feature/detail/screen" />
+            <option value="$PROJECT_DIR$/feature/home" />
+            <option value="$PROJECT_DIR$/feature/home/api" />
+            <option value="$PROJECT_DIR$/feature/home/apiinfra" />
+            <option value="$PROJECT_DIR$/feature/home/cache" />
+            <option value="$PROJECT_DIR$/feature/home/cacheinfra" />
+            <option value="$PROJECT_DIR$/feature/home/domain" />
+            <option value="$PROJECT_DIR$/feature/home/screen" />
+            <option value="$PROJECT_DIR$/feature/search" />
+            <option value="$PROJECT_DIR$/feature/search/api" />
+            <option value="$PROJECT_DIR$/feature/search/apiinfra" />
+            <option value="$PROJECT_DIR$/feature/search/cache" />
+            <option value="$PROJECT_DIR$/feature/search/cacheinfra" />
+            <option value="$PROJECT_DIR$/feature/search/domain" />
+            <option value="$PROJECT_DIR$/feature/search/screen" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
